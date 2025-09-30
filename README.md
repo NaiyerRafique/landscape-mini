@@ -2,7 +2,7 @@
 
 A compact, reproducible Google Colab project for **landscape image classification**. The notebook shows a clean end‑to‑end flow: dataset setup, training, evaluation, and quick demo exports/screenshots.
 
-> **Notebook:** `LandScape_Mini_Simple_Colab.ipynb`
+> **Notebook:** `LandScape_Mini_Colab.ipynb`
 
 ---
 
