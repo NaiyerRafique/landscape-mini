@@ -4,6 +4,7 @@ A compact, reproducible Google Colab project for **landscape image classificatio
 
 > **Notebook:** `LandScape_Mini_Colab.ipynb`
 
+![Alt text for image](images/screenshot1.png)
 ---
 
 ## ✨ Highlights
